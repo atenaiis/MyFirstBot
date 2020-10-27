@@ -13,9 +13,9 @@ begin
       client.fav tweet    
       end
 
-    rescue
+     rescue
           puts 'error occurred, waiting for 5 seconds'
           sleep 5
-      end
+       end
+     end
     end
-  end
