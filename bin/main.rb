@@ -1,4 +1,5 @@
 require'twitter'
+
 while true
 begin
         client = Twitter::REST::Client.new do |config|
